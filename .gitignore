@@ -1,0 +1,11 @@
+*.mp4
+*.avi
+__pycache__/
+Videos
+*.weights
+*.mp4
+*.pth
+*.17
+.git2/
+.git_orig/
+*.mov
